@@ -1,0 +1,2 @@
+# JavaCodePractice
+Java Coding  Exercise
